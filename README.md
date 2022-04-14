@@ -20,3 +20,9 @@ result : about 65%
 1FPS  
 ![image](https://user-images.githubusercontent.com/11674965/163081473-f327c3e9-e5d0-4db0-9213-4185f9915336.png)  
 
+16:00 ~ 19:00
+result : about 80%
+![image](https://user-images.githubusercontent.com/11674965/163290859-d3f2b136-318d-457d-8b93-f2579f24a43e.png)
+
+as a result : battery saving 18.75%
+
