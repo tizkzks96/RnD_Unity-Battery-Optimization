@@ -24,7 +24,9 @@ result : about 65%
 result : about 80%  
 ![image](https://user-images.githubusercontent.com/11674965/163291310-02e25715-d157-499f-b782-54eb084c2776.png)  
 
-as a result : battery saving 18.75%  
+as a result 
+- battery saving 18.75%  
+- With fever -> No fever
 | before | after | 
 |--------|-------|
 ![image](https://user-images.githubusercontent.com/11674965/163291349-cd5a19b2-92b4-4f78-943f-1058d4a4dcd0.png) | ![image](https://user-images.githubusercontent.com/11674965/163291355-46521ba2-0b90-4cfc-95ce-a9f99daffce4.png)
