@@ -21,8 +21,11 @@ result : about 65%
 ![image](https://user-images.githubusercontent.com/11674965/163081473-f327c3e9-e5d0-4db0-9213-4185f9915336.png)  
 
 16:00 ~ 19:00
-result : about 80%
-![image](https://user-images.githubusercontent.com/11674965/163290859-d3f2b136-318d-457d-8b93-f2579f24a43e.png)
+result : about 80%  
+![image](https://user-images.githubusercontent.com/11674965/163291310-02e25715-d157-499f-b782-54eb084c2776.png)  
 
-as a result : battery saving 18.75%
+as a result : battery saving 18.75%  
+| before | after | 
+|--------|-------|
+![image](https://user-images.githubusercontent.com/11674965/163291349-cd5a19b2-92b4-4f78-943f-1058d4a4dcd0.png) | ![image](https://user-images.githubusercontent.com/11674965/163291355-46521ba2-0b90-4cfc-95ce-a9f99daffce4.png)
 
