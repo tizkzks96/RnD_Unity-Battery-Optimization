@@ -33,8 +33,10 @@ result : about 80%
 
 60FPS -> 1FPS result 
 - battery saving 18.75%  
-- With fever -> No fever
-| before | after | 
-|--------|-------|
-![image](https://user-images.githubusercontent.com/11674965/163291349-cd5a19b2-92b4-4f78-943f-1058d4a4dcd0.png) | ![image](https://user-images.githubusercontent.com/11674965/163291355-46521ba2-0b90-4cfc-95ce-a9f99daffce4.png)
+- With fever -> No fever  
+
+| 60FPS | 15FPS | 1 FPS |
+| ------ | ------ | ------ |
+| ![image](https://user-images.githubusercontent.com/11674965/163739159-8f83da0f-be63-46dd-aa65-654bf6e79d25.png) | ![image](https://user-images.githubusercontent.com/11674965/163739177-cf481878-e0b8-4148-8672-613d42b51487.png) | ![image](https://user-images.githubusercontent.com/11674965/163739181-18a9763f-1e40-4e91-bdb7-25441303b7c3.png) |
+ 
 
